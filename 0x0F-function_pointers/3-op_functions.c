@@ -8,11 +8,12 @@ int op_mod(int a, int b);
 
 /**
  * op_add - Returns the sum of two numbers.
- * @a: The first number.
- * @b: The second number.
+ * @a: The first number to be used.
+ * @b: The second number to be used.
  *
  * Return: The sum of a and b.
  */
+
 int op_add(int a, int b)
 {
 	return (a + b);
