@@ -1,2 +1,2 @@
-This repo contains C programming projects
-This is the hash table project in C
+This repo contains C low-level programming projects
+
